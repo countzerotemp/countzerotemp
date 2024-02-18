@@ -1,1 +1,1 @@
-- welcome in count zero OOP CRASH COURSE
+- 🎯 Welcome in count-zero OOP CRASH COURSE 🎯
